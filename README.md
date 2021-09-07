@@ -2,7 +2,9 @@
 Re-pull repo to get most up-to-date notes
 
 main.tf = where your code lives for provisioning infastructure
+
 variables.tf = where you declare variables
+
 terraform.tfvars = where you set values for your declared variables
 
 ##Comamands
